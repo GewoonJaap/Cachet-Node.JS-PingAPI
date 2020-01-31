@@ -1,0 +1,10 @@
+[
+    {
+        "ip": ServerIPHere,
+        "port": ServerPortHere,
+        "name": ServerNameHere,
+        "id": MetricIDHere,
+        "online": true,
+        "incidentid": 0
+  }
+]
